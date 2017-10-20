@@ -8,4 +8,4 @@ Consta de dos cajas (padres) que a su vez contienen otras más pequeñas (hijas)
 
  #### Resultado:
 
- ![boxes](images/box.png "boxes")
+![boxes](assets/images/box.png "boxes")
